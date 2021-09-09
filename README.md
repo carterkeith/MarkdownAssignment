@@ -5,7 +5,7 @@ Coming from a year spent online, going to in person to classes has been an adjus
 ## Advisory Note ![Stop_sign.png](https://www.dropbox.com/s/qq5rbdb9e164c69/Stop_sign.png?dl=0&raw=1)
 Make sure to obey all traffic laws and wear a helmet while riding to protect your safety.
 ## Steps:
-### 1. Download the NextBike app![Capture.PNG](https://www.dropbox.com/s/g9imcwtipft7fbv/Capture.PNG?dl=0&raw=1)
+### 1. Download the NextBike app ![Capture.PNG](https://www.dropbox.com/s/pfus3jmiskm3v76/Capture.PNG?dl=0&raw=1)
 Go to whatever app store your phone has and download the NextBike app. 
 ### 2. Create an account using your phone number
 The app will ask you for your phone number. Once you enter it, you will recieve a code to confirm that your account has been created. You may also be asked here to put in your payment information. If so, enter it and proceeed. However, some operating systems do this later, so be sure to have your information handy for when it does ask.
